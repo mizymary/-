@@ -557,7 +557,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#be4b4b",
+        "stroke": "#a93737",
         "stroke-width": 2,
         "stroke-opacity": 1
       },
@@ -1928,7 +1928,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ab3b3b",
+        "stroke": "#a93737",
         "stroke-width": 2,
         "stroke-opacity": 1
       },
